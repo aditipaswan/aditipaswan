@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Full stack web app<br>👯 I’m looking to collaborate on any project regarding web development<br>🤝 I’m looking for help with web development<br>🌱 I’m currently learning JavaScript, React<br>💬 Ask me about web development, coding related stuff<br>⚡
-Professional Summary
+🔭 I’m currently working on Full stack web app<br>👯 I’m looking to collaborate on any project regarding web development<br>🤝 I’m looking for help with web development<br>🌱 I’m currently learning JavaScript, React<br>💬 Ask me about web development, coding related stuff<br>
+⚡Professional Summary
 Result-driven B.tech CSE-(AI) final year student passionate about designing, developing and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full Stack Developer.
 
 
