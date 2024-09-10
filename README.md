@@ -1,15 +1,20 @@
 
-<h1>
+<h1 align="center">
  Hi, This is AditiPaswan.
 </h1>
- <p>
+
+
+ <h3>
   Result-driven B.tech CSE-(AI) final year student passionate about designing, developing and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full Stack Developer.
- </p>
+ </h3>
 
 # 💫 About Me:
 <ul>
 <li>🔭 I’m currently working on Full Stack web app.<br> </li> <br> <li> 👯 I’m looking to collaborate on any project regarding web development. </li> <br> <li> 🤝 I’m looking for help with web development.  </li> 
- <br> <li> 🌱 I’m currently learning JavaScript, React.  </li> <br>  <li> 💬 Ask me about web development, coding related stuff. </li> <br> 
+ <br> <li> 🌱 I’m currently learning JavaScript, React.  </li> <br>  <li> 💬 Ask me about web development, coding related stuff. </li> <br> <li>
+  💡All of my projects are available at https://get-aditi.netlify.app
+ </li>
+ 
 </ul>
 
 
@@ -34,6 +39,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aditipaswan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
