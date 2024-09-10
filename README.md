@@ -1,9 +1,16 @@
+
+<h1>
+ Hi, This is AditiPaswan.
+</h1>
+ <p>
+  Result-driven B.tech CSE-(AI) final year student passionate about designing, developing and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full Stack Developer.
+ </p>
+
 # 💫 About Me:
 <ul>
 <li>🔭 I’m currently working on Full Stack web app.<br> </li> <br> <li> 👯 I’m looking to collaborate on any project regarding web development. </li> <br> <li> 🤝 I’m looking for help with web development.  </li> 
  <br> <li> 🌱 I’m currently learning JavaScript, React.  </li> <br>  <li> 💬 Ask me about web development, coding related stuff. </li> <br> 
-<li>⚡Professional Summary-
-Result-driven B.tech CSE-(AI) final year student passionate about designing, developing and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full Stack Developer.</ul>
+</ul>
 
 
 ## 🌐 Socials:
