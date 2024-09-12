@@ -1,6 +1,6 @@
 
 <h1 align="center">
- Hi, This is AditiPaswan.
+ Hi, This is Aditi Paswan.
 </h1>
 
 
