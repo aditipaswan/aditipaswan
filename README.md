@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 <ul>
-<li>🔭 I’m currently working on Full Stack web app.<br> </li> <br> <li> 👯 I’m looking to collaborate on any project regarding web development. </li> <br> <li> 🤝 I’m looking for help with web development.  </li> 
+<li>🔭 I’m currently working on Full Stack web app.<br> </li> <br> <li> 👯 I’m looking to collaborate on any project regarding Web development. </li> <br> <li> 🤝 I’m looking for help with web development.  </li> 
  <br> <li> 🌱 I’m currently learning JavaScript, React.  </li> <br>  <li> 💬 Ask me about web development, coding related stuff. </li> <br> <li>
   💡All of my projects are available at https://get-aditi.netlify.app
  </li>
