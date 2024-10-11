@@ -1,6 +1,6 @@
 <div align="center">
  <a href="https://get-aditi.netlify.app" target="_blank">
-    <img src="https://github.com/user-attachments/assets/20bb0e57-b431-42d7-aac3-9ce63eb894da" alt="Portfolio Banner">
+    <img src="https://github.com/user-attachments/assets/4782b3aa-79da-4d3d-8423-8ae62f07de5d" alt="Portfolio Banner">
   </a>
  
 # Hi, This is Aditi Paswan
