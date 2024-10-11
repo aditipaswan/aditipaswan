@@ -1,4 +1,7 @@
 <div align="center">
+ <a href="https://get-aditi.netlify.app" target="_blank">
+    <img src="https://github.com/user-attachments/assets/20bb0e57-b431-42d7-aac3-9ce63eb894da" alt="Portfolio Banner">
+  </a>
  
 # Hi, This is Aditi Paswan
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditii.122)
